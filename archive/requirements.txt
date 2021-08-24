@@ -1,0 +1,11 @@
+networkx==2.1
+numpy
+tqdm
+pandas
+keras
+matplotlib
+node2vec
+sklearn
+tensorflow
+jupyterlab
+
